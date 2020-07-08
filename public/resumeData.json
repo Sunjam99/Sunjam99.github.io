@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Simbarashe Alan Musanjeya",
+    "occupation":"junior Developer",
+    "description":"An African Lion making a dent in the world using technology.",
+    "image":"017.jpg",
+    "bio":"A kid from Africa trying to make a dent in the world using technology",
+    "contactmessage":"Get in touch with me and let's talk.",
+    "email": "simzmusaz@gmail.com",
+    "phone": "068-295-6645",
+    "address":{
+      "street":"3 Bellygreens SummerGreens",
+      "city":"Cape Town,South Africa",
+      "state":"Africa",
+      "zip": "4444"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/allansunjam.musanjeya",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/sunjam_zw",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/simbarashe-allan-m-236ab2133/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/sunjam_zw/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Sunjam99",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm well acquanted with Python,CSS,JavaScript and React",
+    "education":[
+      {
+        "school":"Kyle College",
+        "High School":"Grade 8 - 10",
+        "graduated":"January 2013",
+        "description":"Being in one of the most prestigeous school in Zimbabwe i got to learn a lot from basic people skills to solving complex maths"
+      },
+      {
+        "school":"Hillcrest College",
+        "High School":"Grade 10 - 12",
+        "graduated":"November 2018",
+        "description":"Perfected my skills in life and sports"
+      }
+    ],
+    "work":[
+      {
+        "company":"ModelsSAReloaded",
+        "title":"Junior Developer",
+        "years":"June 2020-present",
+        "description":"Working on UX design portfolio for models who want to jumpstart their carriers in modelling"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python 3",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ModelsSAReloaded",
+        "category":"Modelling portfolio",
+        "image":"models.jpg",
+        "url":"https://www.instagram.com/models_reloadedza/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Simba is a strong and creative individual, has shown an interest in front end development",
+        "user":"Jason"
+      },
+      {
+        "text":"An intelligent person whose very creative and always thinking out the box. He gives ideas lots of thought and always determined to complete a task or to reach his goal",
+        "user":"Luqmaan"
+      },
+      {
+        "text":"Simbarashe is a critical thinker, an excellent problem-solver and concise individual. His passionate and his work is remarkable. It would be a great asset to have him to be part of your team",
+        "user":"Takudzwa"
+      },
+      {
+        "text":"Simba is a very charismatic,  energetic  and hardworking individual. He is very  enthusiastic and he works well with others and he always seems to light up the room with his personality.Simba is focused on achieving all his goals.There is never a dull moment with him.I believe Simba will be an asset to the company and he will definitely bring something different.",
+        "user":"Mischa"
+      }
+    ]
+  }
+}
