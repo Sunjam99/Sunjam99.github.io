@@ -28,11 +28,6 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/simbarashe-allan-m-236ab2133/",
         "className":"fa fa-linkedin"
@@ -46,11 +41,6 @@
         "name":"github",
         "url":"http://github.com/Sunjam99",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -59,15 +49,21 @@
     "education":[
       {
         "school":"Kyle College",
-        "High School":"Grade 8 - 10",
-        "graduated":"January 2013",
-        "description":"Being in one of the most prestigeous school in Zimbabwe i got to learn a lot from basic people skills to solving complex maths"
+        "High School":"",
+        "graduated":"2013 - 2015",
+        "description":""
       },
       {
         "school":"Hillcrest College",
-        "High School":"Grade 10 - 12",
-        "graduated":"November 2018",
-        "description":"Perfected my skills in life and sports"
+        "High School":"",
+        "graduated":"2016 - 2018",
+        "description":""
+      },
+      {
+        "school":"LifeChoices Coding Academy",
+        "High School":"",
+        "graduated":"2020 - present",
+        "description":""
       }
     ],
     "work":[
@@ -75,7 +71,7 @@
         "company":"ModelsSAReloaded",
         "title":"Junior Developer",
         "years":"June 2020-present",
-        "description":"Working on UX design portfolio for models who want to jumpstart their carriers in modelling"
+        "description":"Working on UX design portfolio for models who want to jumpstart their careers in modelling."
       }
     ],
     "skills":[
@@ -112,6 +108,24 @@
         "category":"Modelling portfolio",
         "image":"models.jpg",
         "url":"https://www.instagram.com/models_reloadedza/"
+      },
+      {
+        "title":"Contact-Keeper",
+        "category":"Past Project",
+        "image":"github.png",
+        "url":"https://github.com/Sunjam99/Contact-Keeper"
+      },
+      {
+        "title":"it-logger",
+        "category":"Past Project",
+        "image":"github.png",
+        "url":"https://github.com/Sunjam99/it-logger"
+      },
+      {
+        "title":"React Finder",
+        "category":"Past Project",
+        "image":"github.png",
+        "url":"https://github.com/Sunjam99/it-logger"
       }
     ]
   },

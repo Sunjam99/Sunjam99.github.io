@@ -180,9 +180,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 130px;
+   height: 130px;
+   border-radius: 120%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {

@@ -19,8 +19,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Sunjam</li>
-              <li>Design by <a title="Sunjam" href="#">SunWorld</a></li>
+              <li>&copy; Copyright Tim Baker</li>
+              <li>Edited by <a title="Simba" href="/">Simba</a></li>
            </ul>
 
         </div>
