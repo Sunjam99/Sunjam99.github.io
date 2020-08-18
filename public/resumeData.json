@@ -112,7 +112,7 @@
       {
         "title":"Contact-Keeper",
         "category":"Past Project",
-        "image":"github.png",
+        "image":"https://camo.githubusercontent.com/9cf32540337501183d7e71c2cef531a25b2d3952/68747470733a2f2f692e696d6775722e636f6d2f736c6e477366392e676966",
         "url":"https://github.com/Sunjam99/Contact-Keeper"
       },
       {
@@ -126,7 +126,14 @@
         "category":"Past Project",
         "image":"github.png",
         "url":"https://github.com/Sunjam99/it-logger"
+      },
+      {
+        "title":"Lottery Python",
+        "category":"Past Project",
+        "image":"github.png",
+        "url":"https://github.com/Sunjam99/Lottery-package/raw/master/tk.exe"
       }
+      
     ]
   },
   "testimonials":{
